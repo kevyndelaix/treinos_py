@@ -1,2 +1,1 @@
-
 Pasta focada em desenvolvimento de arquivos basicos para mapear minha evolução.
